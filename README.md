@@ -15,6 +15,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
----
-[![](https://komarev.com/ghpvc/?username=anoffixial&icon=1&color=12)](https://visitcount.itsvg.in)
+
+
+Thank You For Visiting
 
