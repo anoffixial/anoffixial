@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Rusborn Business Operations System<br>🌱 I’m currently going deep into DSA<br>
+🔭 I’m currently working on some personal projects, Stay tuned.
 
 
 ## Socials:
